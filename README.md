@@ -16,8 +16,8 @@ I'm a Computer Engineering student (GPA **3.68 / 4.00**) who likes working acros
 - 💼 Former **Intern Software Engineer @ Xeptagon** (May – Nov 2025): Next.js, ASP.NET Core Web APIs, C#, PostgreSQL, EF Core, plus an R&D supply-chain platform on NestJS + Neo4j
 - 🔭 Building **SmartPort**, a cloud-native port management platform on Kafka-driven microservices
 - ⚡ Interested in parallel and distributed computing (OpenMP, MPI, CUDA)
-- 🏆 IEEEXtreme 18.0: **47th in Sri Lanka**, **89th in Asia (Region 10)**
-- 💬 Ask me about microservices, Saga patterns, graph databases or HPC
+- 🦀 Rust enthusiast who enjoys memory-safe, fast systems programming
+- 💬 Ask me about microservices, graph databases or HPC
 
 ---
 
@@ -33,6 +33,7 @@ I'm a Computer Engineering student (GPA **3.68 / 4.00**) who likes working acros
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 </p>
 
 **Backend**
@@ -42,7 +43,6 @@ I'm a Computer Engineering student (GPA **3.68 / 4.00**) who likes working acros
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 </p>
 
 **Frontend**
