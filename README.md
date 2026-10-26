@@ -83,7 +83,6 @@ I'm a Computer Engineering student (GPA **3.68 / 4.00**) who likes working acros
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
 </p>
 
 ---
@@ -104,6 +103,7 @@ I'm a Computer Engineering student (GPA **3.68 / 4.00**) who likes working acros
 
 ---
 
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -113,7 +113,7 @@ I'm a Computer Engineering student (GPA **3.68 / 4.00**) who likes working acros
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tharindu396&hide_border=true" alt="GitHub streak"/>
-</p>
+</p> -->
 
 ---
 
