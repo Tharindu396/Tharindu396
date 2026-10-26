@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering @ University of Ruhuna · Backend & Distributed Systems · High-Performance Computing</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tharindu-gunarathne"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/tharindu-gunarathne-370b28263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nbandara396@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Malabe,%20Sri%20Lanka-555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
@@ -24,6 +24,7 @@ I'm a Computer Engineering student (GPA **3.68 / 4.00**) who likes working acros
 ## 🛠️ Tech Stack
 
 **Languages**
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -35,6 +36,7 @@ I'm a Computer Engineering student (GPA **3.68 / 4.00**) who likes working acros
 </p>
 
 **Backend**
+
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -44,6 +46,7 @@ I'm a Computer Engineering student (GPA **3.68 / 4.00**) who likes working acros
 </p>
 
 **Frontend**
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -51,6 +54,7 @@ I'm a Computer Engineering student (GPA **3.68 / 4.00**) who likes working acros
 </p>
 
 **Databases & Messaging**
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -59,6 +63,7 @@ I'm a Computer Engineering student (GPA **3.68 / 4.00**) who likes working acros
 </p>
 
 **DevOps & Cloud**
+
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
@@ -69,6 +74,7 @@ I'm a Computer Engineering student (GPA **3.68 / 4.00**) who likes working acros
 </p>
 
 **HPC, ML & Vision**
+
 <p>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenMP-555555?style=flat-square"/>
@@ -84,15 +90,15 @@ I'm a Computer Engineering student (GPA **3.68 / 4.00**) who likes working acros
 
 ## 🚀 Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| ⚓ [**SmartPort**](https://github.com/Tharindu396/Smart_Port) | Cloud-native berthing and import/export management system that automates the full vessel-visit lifecycle. Services communicate asynchronously over Kafka, with a choreography-based Saga keeping distributed transactions consistent. | NestJS · Next.js · Go · Kafka · Neo4j · PostgreSQL · Docker |
-| 🤖 [**Autonomous Factory Robot**](https://github.com/Tharindu396/Self_car) | Vision-guided mobile robot that follows lines, detects junctions in real time and plans shortest routes with Dijkstra's algorithm. Runs on physical hardware with PID motor control. | Python · OpenCV · Graph Algorithms · Embedded |
-| 🔍 [**Leather Defect Detection**](https://github.com/Tharindu396/Leather_defect_detection) | Segments leather defects (stains, cuts, folds, glue marks) under low light. Uses diffusion-generated synthetic data, a deep-learning model and a classical CV baseline. | Python · Deep Learning · Computer Vision |
-| 📊 [**AI Readiness Assessment**](https://github.com/Tharindu396/AI-Readiness-Assessment-for-teams) | Org-wide AI readiness survey with per-team breakdowns and ranked upskilling recommendations, built to show the gap between AI readiness and AI usage. | TypeScript · Next.js |
-| 🎲 [**Multiplayer Monopoly**](https://github.com/Tharindu396/monopoly) | Real-time multiplayer Monopoly over TCP sockets with a multithreaded, non-blocking game loop and a Swing (JFrame) GUI. | Java · TCP · Threads · JFrame |
-| 📺 [**YouTube Trends with MapReduce**](https://github.com/Tharindu396/Trending_Youtube_base_on_countries) | Custom Hadoop MapReduce job that aggregates trending-video views by category across regions. | Java · Hadoop |
-| ❤️ [**Heart Failure Detection**](https://github.com/Tharindu396/Heartfailure_detection) | Compares ML models to pick the best one for predicting heart failure. | Python · scikit-learn · Jupyter |
+| Project                                                                                                   | What it is                                                                                                                                                                                                                            | Stack                                                       |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| ⚓ [**SmartPort**](https://github.com/Tharindu396/Smart_Port)                                             | Cloud-native berthing and import/export management system that automates the full vessel-visit lifecycle. Services communicate asynchronously over Kafka, with a choreography-based Saga keeping distributed transactions consistent. | NestJS · Next.js · Go · Kafka · Neo4j · PostgreSQL · Docker |
+| 🤖 [**Autonomous Factory Robot**](https://github.com/Tharindu396/Self_car)                                | Vision-guided mobile robot that follows lines, detects junctions in real time and plans shortest routes with Dijkstra's algorithm. Runs on physical hardware with PID motor control.                                                  | Python · OpenCV · Graph Algorithms · Embedded               |
+| 🔍 [**Leather Defect Detection**](https://github.com/Tharindu396/Leather_defect_detection)                | Segments leather defects (stains, cuts, folds, glue marks) under low light. Uses diffusion-generated synthetic data, a deep-learning model and a classical CV baseline.                                                               | Python · Deep Learning · Computer Vision                    |
+| 📊 [**AI Readiness Assessment**](https://github.com/Tharindu396/AI-Readiness-Assessment-for-teams)        | Org-wide AI readiness survey with per-team breakdowns and ranked upskilling recommendations, built to show the gap between AI readiness and AI usage.                                                                                 | TypeScript · Next.js                                        |
+| 🎲 [**Multiplayer Monopoly**](https://github.com/Tharindu396/monopoly)                                    | Real-time multiplayer Monopoly over TCP sockets with a multithreaded, non-blocking game loop and a Swing (JFrame) GUI.                                                                                                                | Java · TCP · Threads · JFrame                               |
+| 📺 [**YouTube Trends with MapReduce**](https://github.com/Tharindu396/Trending_Youtube_base_on_countries) | Custom Hadoop MapReduce job that aggregates trending-video views by category across regions.                                                                                                                                          | Java · Hadoop                                               |
+| ❤️ [**Heart Failure Detection**](https://github.com/Tharindu396/Heartfailure_detection)                   | Compares ML models to pick the best one for predicting heart failure.                                                                                                                                                                 | Python · scikit-learn · Jupyter                             |
 
 **Other work:** a **High-Performance Canny Edge Detector** in C++ with OpenMP, MPI, hybrid OpenMP+MPI and CUDA versions · an **Art Gallery** platform (React + Django + PostgreSQL, CI/CD with Jenkins) · **Smart System**, a MERN HR and productivity platform for SASESH International with WebRTC/Socket.io meetings, JWT auth and KPI tracking.
 
